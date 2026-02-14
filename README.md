@@ -1,4 +1,4 @@
-# untitled1
+# FocusFlow
 
 A new Flutter project.
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+FocusFlow is a productivity mobile application that combines the Pomodoro time management technique with integrated focus music playback. The app helps users improve concentration, manage study/work sessions efficiently, and reduce distractions using structured timers and background music.
